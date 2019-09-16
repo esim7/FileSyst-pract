@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\obj\Debug\FileSystem_Practical.csprojAssemblyReference.cache
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\obj\Debug\FileSystem_Practical.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\bin\Debug\FileSystem_Practical.exe.config
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\bin\Debug\FileSystem_Practical.exe
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\bin\Debug\FileSystem_Practical.pdb
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\obj\Debug\FileSystem_Practical.exe
+C:\Users\home\source\repos\FileSystem_Practical\FileSystem_Practical\obj\Debug\FileSystem_Practical.pdb
